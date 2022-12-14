@@ -61,7 +61,7 @@ document.getElementById("btnRetry").addEventListener("click", function () {
   if (max === 0) {
     maxValue = NaN || max;
   } else {
-    maxValue = max || 900;
+    maxValue = max || 999;
   }
 
   newMinValue = minValue < -999 ? -999 : minValue;

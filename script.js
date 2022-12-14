@@ -13,7 +13,7 @@ if (min === 0) {
 if (max === 0) {
   maxValue = NaN || max;
 } else {
-  maxValue = max || 900;
+  maxValue = max || 999;
 }
 
 let newMinValue = minValue < -999 ? -999 : minValue;

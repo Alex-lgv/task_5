@@ -1,0 +1,21 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+body {
+    background-color: cadetblue;
+}
+
+.m-0 {
+    font-family: serif;
+    font-size: xx-large;
+}
+
+.card-header {
+    background-color:moccasin
+}
+
+.card-footer {
+    background-color:moccasin
+}
